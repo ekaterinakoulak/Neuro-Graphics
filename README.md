@@ -1,6 +1,6 @@
 # Rinberg Lab Graphics
 
-Hello, below is a list of graphics that I have made for the lab with links to their Adobe files for any modifications that need to be conducted.
+Below is a list of graphics that I have made for the lab with links to their Adobe files for any modifications that need to be conducted.
 
 #### Grants
 
